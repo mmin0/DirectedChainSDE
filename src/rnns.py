@@ -1,0 +1,1 @@
+import torchimport signatoryimport torch.nn as nnclass LSTM(nn.Module):    def __init__():        super(LSTM).__init__()            def forward(x):        return        class LogSigRNN(nn.Module):    def __init__():        super(LogSigRNN).__init__()            def forward(x):        return
